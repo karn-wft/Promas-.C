@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    /* Cesar mendez
-    equipo 1
+    /* Karen Garduño
+    equipo AMUKE
     21 abr 21
     */
 

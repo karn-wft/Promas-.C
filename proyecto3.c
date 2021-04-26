@@ -2,8 +2,8 @@
 
 int main ()
 {
-     /* Cesar mendez
-    equipo 1
+     /* Karen Garduño
+    equipo AMUKE
     21 abr 21
     Programa 3. Pide dos valores reales,  calcula promedio y muestra resultadps
     */
